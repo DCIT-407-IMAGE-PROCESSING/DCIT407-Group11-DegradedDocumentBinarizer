@@ -221,3 +221,25 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# ---------- Project-specific ----------
+
+# Editors / OS files
+.vscode/
+.idea/
+*.swp
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Datasets: do not push large datasets.
+# Keep only a few samples in data/samples/ and link to the full
+# dataset in data/README.md.
+data/*
+!data/README.md
+!data/samples/
+!data/samples/**
+
+# Temporary or bulk outputs (final figures and tables for the report are kept)
+results/tmp/
+results/raw/

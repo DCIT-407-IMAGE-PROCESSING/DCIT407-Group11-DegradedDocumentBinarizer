@@ -1,0 +1,19 @@
+# Core
+numpy>=1.24
+opencv-python>=4.8
+matplotlib>=3.7
+
+# Allowed extras (metrics, data handling)
+scipy>=1.10
+scikit-image>=0.21
+pandas>=2.0
+
+# Notebook demo
+jupyter>=1.0
+ipykernel>=6.25
+
+# Testing
+pytest>=7.4
+
+# Optional: only if the group builds a small UI for the demo
+# streamlit>=1.28
