@@ -153,7 +153,7 @@ _To be completed once experiments are finished (Week 11)._ This section will sum
 | --- | --------------------- | ---------- | ------- | -------------------------------------- |
 | 1   |                       |            |         | Data and I/O                           |
 | 2   |                       |            |         | Preprocessing                          |
-| 3   |                       |            |         | Postprocessing                         |
+| 3   |Firdaus Maltiti Musah | 22021182   |@Fir-daus6|Postprocessing  
 | 4   |                       |            |         | Global methods (fixed threshold, Otsu) |
 | 5   |                       |            |         | Sauvola and parameter study            |
 | 6   |                       |            |         | Niblack and other local methods        |
