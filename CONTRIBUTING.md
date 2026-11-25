@@ -19,18 +19,18 @@
 
 ## Roles
 
-| # | Area | Files | Assigned to |
-|---|---|---|---|
-| 1 | Data and I/O | `src/io_utils.py`, `data/README.md` | |
-| 2 | Preprocessing | `src/preprocessing.py` | |
-| 3 | Postprocessing | `src/postprocessing.py` | |
-| 4 | Global methods | `src/thresholding/global_threshold.py`, `src/thresholding/otsu.py` | |
-| 5 | Sauvola and parameter study | `src/thresholding/sauvola.py`, `experiments/parameter_study.py` | |
-| 6 | Niblack and other local methods | `src/thresholding/niblack.py` | |
-| 7 | OpenCV baselines and tests | `src/thresholding/opencv_baselines.py`, `tests/test_thresholding.py` | |
-| 8 | Metrics | `src/metrics.py` | Anneta D. Dzibolosu (@annetadd) |
-| 9 | Pipeline and experiments | `src/pipeline.py`, `experiments/run_comparison.py` | |
-| 10 | Visualization and demo | `src/visualization.py`, `notebooks/demo.ipynb` | |
-| 11 | Report and slides | `report/`, `slides/` | |
+| #   | Area                            | Files                                                                | Assigned to                     |
+| --- | ------------------------------- | -------------------------------------------------------------------- | ------------------------------- |
+| 1   | Data and I/O                    | `src/io_utils.py`, `data/README.md`                                  |                                 |
+| 2   | Preprocessing                   | `src/preprocessing.py`                                               |                                 |
+| 3   | Postprocessing                  | `src/postprocessing.py`                                              |                                 |
+| 4   | Global methods                  | `src/thresholding/global_threshold.py`, `src/thresholding/otsu.py`   |                                 |
+| 5   | Sauvola and parameter study     | `src/thresholding/sauvola.py`, `experiments/parameter_study.py`      |                                 |
+| 6   | Niblack and other local methods | `src/thresholding/niblack.py`                                        |                                 |
+| 7   | OpenCV baselines and tests      | `src/thresholding/opencv_baselines.py`, `tests/test_thresholding.py` |                                 |
+| 8   | Metrics                         | `src/metrics.py`                                                     | Anneta D. Dzibolosu (@annetadd) |
+| 9   | Pipeline and experiments        | `src/pipeline.py`, `experiments/run_comparison.py`                   | Immanuel Oheneba Debe (@Khojoe) |
+| 10  | Visualization and demo          | `src/visualization.py`, `notebooks/demo.ipynb`                       |                                 |
+| 11  | Report and slides               | `report/`, `slides/`                                                 |                                 |
 
 Everyone also writes the theory section for their own method in the report.
