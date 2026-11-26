@@ -152,7 +152,7 @@ _To be completed once experiments are finished (Week 11)._ This section will sum
 | #   | Name                  | Student ID | GitHub  | Area                                   |
 | --- | --------------------- | ---------- | ------- | -------------------------------------- |
 | 1   |                       |            |         | Data and I/O                           |
-| 2   |                       |            |         | Preprocessing                          |
+| 2   |  Addo Michael Obiri   | 22182561   | @obirimike| Preprocessing                        |
 | 3   |                       |            |         | Postprocessing                         |
 | 4   |                       |            |         | Global methods (fixed threshold, Otsu) |
 | 5   |                       |            |         | Sauvola and parameter study            |
