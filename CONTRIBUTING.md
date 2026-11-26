@@ -22,7 +22,7 @@
 | #   | Area                            | Files                                                                | Assigned to                     |
 | --- | ------------------------------- | -------------------------------------------------------------------- | ------------------------------- |
 | 1   | Data and I/O                    | `src/io_utils.py`, `data/README.md`                                  |                                 |
-| 2   | Preprocessing                   | `src/preprocessing.py`                                               |                                 |
+| 2   | Preprocessing                   | `src/preprocessing.py`                                               | Addo Michael Obiri (@obirimike) |
 | 3   | Postprocessing                  | `src/postprocessing.py`                                              |Usman Etaaf Sutura (@Jordaneta)                                 |
 | 4   | Global methods                  | `src/thresholding/global_threshold.py`, `src/thresholding/otsu.py`   |                                 |
 | 5   | Sauvola and parameter study     | `src/thresholding/sauvola.py`, `experiments/parameter_study.py`      |                                 |
