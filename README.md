@@ -157,7 +157,7 @@ _To be completed once experiments are finished (Week 11)._ This section will sum
 | 4   |                       |            |         | Global methods (fixed threshold, Otsu) |
 | 5   |                       |            |         | Sauvola and parameter study            |
 | 6   |                       |            |         | Niblack and other local methods        |
-| 7   |                       |            |         | OpenCV baselines and tests             |
+| 7   | Hubert Zonyra         | 22167843   | @zonyra-hubert | OpenCV baselines and tests        |
 | 8   | Anneta D. Dzibolosu   | 22130388   | @annetadd | Metrics                                |
 | 9   | Immanuel Oheneba Debe | 22243130   | @Khojoe | Pipeline and experiments               |
 | 10  |                       |            |         | Visualization and demo                 |

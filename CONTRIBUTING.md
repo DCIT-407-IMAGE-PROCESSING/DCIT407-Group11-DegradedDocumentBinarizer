@@ -27,7 +27,7 @@
 | 4   | Global methods                  | `src/thresholding/global_threshold.py`, `src/thresholding/otsu.py`   |                                 |
 | 5   | Sauvola and parameter study     | `src/thresholding/sauvola.py`, `experiments/parameter_study.py`      |                                 |
 | 6   | Niblack and other local methods | `src/thresholding/niblack.py`                                        |                                 |
-| 7   | OpenCV baselines and tests      | `src/thresholding/opencv_baselines.py`, `tests/test_thresholding.py` |                                 |
+| 7   | OpenCV baselines and tests      | `src/thresholding/opencv_baselines.py`, `tests/test_thresholding.py` | Hubert Zonyra (@zonyra-hubert)  |
 | 8   | Metrics                         | `src/metrics.py`                                                     | Anneta D. Dzibolosu (@annetadd) |
 | 9   | Pipeline and experiments        | `src/pipeline.py`, `experiments/run_comparison.py`                   | Immanuel Oheneba Debe (@Khojoe) |
 | 10  | Visualization and demo          | `src/visualization.py`, `notebooks/demo.ipynb`                       |                                 |
