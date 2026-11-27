@@ -23,7 +23,7 @@
 | --- | ------------------------------- | -------------------------------------------------------------------- | ------------------------------- |
 | 1   | Data and I/O                    | `src/io_utils.py`, `data/README.md`                                  |                                 |
 | 2   | Preprocessing                   | `src/preprocessing.py`                                               | Addo Michael Obiri (@obirimike) |
-| 3   | Postprocessing                  | `src/postprocessing.py`                                              |Usman Etaaf Sutura (@Jordaneta)                                 |
+| 3   | Postprocessing                  | `src/postprocessing.py`                                              |Firdaus Maltiti Musah(@Fir-daus6)|
 | 4   | Global methods                  | `src/thresholding/global_threshold.py`, `src/thresholding/otsu.py`   |                                 |
 | 5   | Sauvola and parameter study     | `src/thresholding/sauvola.py`, `experiments/parameter_study.py`      |                                 |
 | 6   | Niblack and other local methods | `src/thresholding/niblack.py`                                        |                                 |
