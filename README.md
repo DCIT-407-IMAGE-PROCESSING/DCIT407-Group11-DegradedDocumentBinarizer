@@ -154,7 +154,7 @@ _To be completed once experiments are finished (Week 11)._ This section will sum
 | 1   |                       |            |         | Data and I/O                           |
 | 2   |  Addo Michael Obiri   | 22182561   | @obirimike| Preprocessing                        |
 | 3   |                       |            |         | Postprocessing                         |
-| 4   |                       |            |         | Global methods (fixed threshold, Otsu) |
+| 4   | Jessica Zunuo Puozaa |22120404 | @jessy0017  | Global methods (fixed threshold, Otsu) |
 | 5   |                       |            |         | Sauvola and parameter study            |
 | 6   |                       |            |         | Niblack and other local methods        |
 | 7   |                       |            |         | OpenCV baselines and tests             |
